@@ -8,7 +8,7 @@ public class array {
 		for(int i=0;i<5;i++)
 		{
 			System.out.println(array[i]);
-			/*hi  */
+			/*hi  i  am in branch1 */
 		}
 		for(int i:array)
 		{
